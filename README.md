@@ -1,10 +1,5 @@
 # Loan Approval Prediction
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)
-![XGBoost](https://img.shields.io/badge/Library-XGBoost-green.svg)
-![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
-
 ## Overview
 
 Loan approval decisions are critical for both financial institutions and applicants. Approving a high-risk applicant results in financial loss for the bank, while rejecting a creditworthy applicant means lost business and potential reputational harm.
